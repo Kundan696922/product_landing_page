@@ -1,4 +1,4 @@
-#Product Landing Page
+# Product Landing Page
 
 This project is a product landing page for the FitFusion fitness app, providing an overview of its features, how it works, and pricing options.
 
@@ -6,7 +6,7 @@ This project is a product landing page for the FitFusion fitness app, providing 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/Kundan696922/product-landing-page.git
+   git clone https://github.com/Kundan696922/product_landing_page.git
 2. **Open the Documentation**:
 
    Navigate to the project directory and open index.html in your web browser.
